@@ -1,6 +1,7 @@
 // One-Line Office Joke: HR says my out-of-office reply is too
 // honest. It now reads: gone. Forever. Please direct all
-// questions to the void. The office joke is the void.
+// questions to the void. The office joke is the void. The void
+// has not replied. HR considers that progress.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
